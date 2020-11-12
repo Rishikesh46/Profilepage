@@ -64,10 +64,18 @@ body{
     
 }
 .banner-details{
+    
     font-size: 20px;
-    margin-top:30%;
+    margin-top:25%;
     text-align: center;  
     color:black; 
+    justify-content: center;
+}
+.banner-details img{
+    
+    width: 100px;
+    height :auto;
+    justify-content: center;
 }
 .section-content{
     display: flex;
